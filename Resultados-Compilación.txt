@@ -1,3 +1,0 @@
-﻿1>------ Operación Compilar iniciada: proyecto: Practica04092017, configuración: Debug Any CPU ------
-1>  Practica04092017 -> C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Practica04092017.dll
-========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
