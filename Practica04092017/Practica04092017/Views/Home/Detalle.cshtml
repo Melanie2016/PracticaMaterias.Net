@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Detalle";
+}
+
+
+@using Practica04092017.Models
+@model Materia
+
+
+
+<h2>Detalle</h2>
+
+<h3>Id: @Model.idMateria</h3>
+<h3>Nombre: @Model.nombre</h3>
+<h3>Cantidad de Alumnos: @Model.cantidadAlumnos</h3>
+
+<a href="/Home/Listar/"> volver</a>

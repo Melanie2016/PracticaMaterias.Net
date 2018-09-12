@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Listar";
+}
+
+@using Practica04092017.Models
+@model List<Materia>
+
+<h2>Listar</h2>
+
+<table>
+    <tr>
+        <td>Id</td>
+        <td>Nombre</td>
+        <td>Alumnos</td>
+        <td>Detalle</td>
+        <td>Eliminar</td>
+        <td>Modificar</td>
+    </tr>
+    @foreach (Materia m in Model)
+    {
+    <tr>
+        <td>@m.idMateria</td>
+        <td>@m.nombre</td>
+        <td>@m.cantidadAlumnos</td>
+        <td><a href="/Home/Detalle/@m.idMateria"> Ver Detalle</a></td>
+        <td><a href="/Home/Eliminar/@m.idMateria"> Eliminar</a></td>
+        <td><a href="/Home/Modificar/@m.idMateria"> Modificar</a></td>
+    </tr>
+    }
+</table>
+<button><a href="/Home/FormAdd/"> Agregar</a></button>

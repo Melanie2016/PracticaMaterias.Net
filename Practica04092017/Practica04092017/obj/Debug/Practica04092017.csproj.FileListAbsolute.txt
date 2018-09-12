@@ -1,0 +1,273 @@
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\ApplicationInsights.config
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Practica04092017.dll.config
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Practica04092017.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Practica04092017.pdb
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\csc.exe
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\csc.exe.config
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\csc.rsp
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\csi.exe
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\csi.exe.config
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\csi.rsp
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.AppContext.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Collections.Immutable.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Console.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.IO.Compression.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.IO.FileSystem.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.IO.Pipes.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Reflection.Metadata.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Security.AccessControl.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Security.Claims.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Security.Principal.Windows.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.ValueTuple.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Xml.XPath.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\vbc.exe
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\vbc.exe.config
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\vbc.rsp
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\VBCSCompiler.exe
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\roslyn\VBCSCompiler.exe.config
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Antlr3.Runtime.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.AI.Agent.Intercept.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.AI.DependencyCollector.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.AI.Web.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.AI.WindowsServer.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.ApplicationInsights.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.Web.Infrastructure.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Newtonsoft.Json.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Diagnostics.DiagnosticSource.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.Helpers.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.Mvc.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.Optimization.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.Razor.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.WebPages.Deployment.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.WebPages.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.WebPages.Razor.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\WebGrease.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.Helpers.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.Mvc.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.Optimization.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.Razor.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.WebPages.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.WebPages.Deployment.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Web.WebPages.Razor.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Newtonsoft.Json.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Antlr3.Runtime.pdb
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\System.Diagnostics.DiagnosticSource.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.AI.DependencyCollector.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.AI.WindowsServer.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.AI.Web.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\obj\Debug\Practica04092017.csprojAssemblyReference.cache
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\obj\Debug\Practica04092017.csproj.CoreCompileInputs.cache
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\obj\Debug\Practica04092017.csproj.CopyComplete
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\obj\Debug\Practica04092017.dll
+G:\ProyectosVisualStudio\Practica04092017\Practica04092017\obj\Debug\Practica04092017.pdb
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\ApplicationInsights.config
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Practica04092017.dll.config
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Practica04092017.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Practica04092017.pdb
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\csc.exe
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\csc.exe.config
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\csc.rsp
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\csi.exe
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\csi.exe.config
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\csi.rsp
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.AppContext.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Console.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.IO.Compression.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.IO.Pipes.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Security.Claims.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.ValueTuple.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Xml.XPath.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\vbc.exe
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\vbc.exe.config
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\vbc.rsp
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\VBCSCompiler.exe
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Antlr3.Runtime.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.AI.Web.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.ApplicationInsights.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Newtonsoft.Json.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.Helpers.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.Mvc.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.Optimization.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.Razor.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.WebPages.Deployment.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.WebPages.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.WebPages.Razor.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\WebGrease.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.Helpers.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.Mvc.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.Optimization.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.Razor.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.WebPages.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.WebPages.Deployment.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Web.WebPages.Razor.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Newtonsoft.Json.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Antlr3.Runtime.pdb
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.AI.Web.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\obj\Debug\Practica04092017.csprojAssemblyReference.cache
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\obj\Debug\Practica04092017.csproj.CoreCompileInputs.cache
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\obj\Debug\Practica04092017.csproj.CopyComplete
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\obj\Debug\Practica04092017.dll
+C:\Users\laboratorios\Desktop\Practica04092017\Practica04092017\obj\Debug\Practica04092017.pdb
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\ApplicationInsights.config
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Practica04092017.dll.config
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Practica04092017.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Practica04092017.pdb
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\csc.exe
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\csc.exe.config
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\csc.rsp
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\csi.exe
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\csi.exe.config
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\csi.rsp
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.AppContext.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Console.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.IO.Compression.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.IO.Pipes.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Security.Claims.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.ValueTuple.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Xml.XPath.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\vbc.exe
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\vbc.exe.config
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\vbc.rsp
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\VBCSCompiler.exe
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Antlr3.Runtime.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.AI.Web.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.ApplicationInsights.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Newtonsoft.Json.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.Helpers.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.Mvc.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.Optimization.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.Razor.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.WebPages.Deployment.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.WebPages.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.WebPages.Razor.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\WebGrease.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.Helpers.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.Mvc.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.Optimization.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.Razor.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.WebPages.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.WebPages.Deployment.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Web.WebPages.Razor.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Newtonsoft.Json.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Antlr3.Runtime.pdb
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.AI.Web.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\obj\Debug\Practica04092017.csprojAssemblyReference.cache
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\obj\Debug\Practica04092017.csproj.CoreCompileInputs.cache
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\obj\Debug\Practica04092017.csproj.CopyComplete
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\obj\Debug\Practica04092017.dll
+C:\Users\melan\Dropbox\Mel\Material Unlam\PW3\Practica04092017\Practica04092017\obj\Debug\Practica04092017.pdb

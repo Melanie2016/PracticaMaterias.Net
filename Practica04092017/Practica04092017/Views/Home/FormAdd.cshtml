@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "FormAdd";
+}
+
+@using Practica04092017.Models
+@model  Materia
+
+<h2>FormAdd</h2>
+
+<form action="/Home/Agregar" method="Post">
+
+   
+
+    Nombre: @Html.TextBoxFor(m => m.nombre)
+
+    Cantidad Alumnos: @Html.TextBoxFor(m => m.cantidadAlumnos)
+
+    <input type="submit" text="Agregar" />
+
+
+
+
+</form>
